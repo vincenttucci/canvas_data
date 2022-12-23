@@ -603,4 +603,4 @@ def main(user_token: str):
         print (cs1)
         cs1 = (execute(what_to_do, user_token, cs1))
         
-main('annie')
+main()
